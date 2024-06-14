@@ -1,5 +1,9 @@
 {
   "routes": [
-    { "src": "https://mobilabv.vercel.app/", "dest": "http://bore.pub:32961", "status": 301 }
+    { 
+      "src": "/(.*)",
+      "status": 301,
+      "headers": { "Location": "http://bore.pub:32961/$1" }
+    }
   ]
 }
