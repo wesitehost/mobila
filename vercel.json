@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/old-path", "dest": "http://bore.pub:32134", "status": 301 }
+  ]
+}
