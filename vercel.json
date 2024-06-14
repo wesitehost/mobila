@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/old-path", "dest": "http://bore.pub:32134", "status": 301 }
+    { "src": "https://mobilabv.vercel.app/", "dest": "http://bore.pub:32961", "status": 301 }
   ]
 }
