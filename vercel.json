@@ -3,7 +3,7 @@
     { 
       "src": "/(.*)",
       "status": 301,
-      "headers": { "Location": "http://bore.pub:32961/$1" }
+      "headers": { "Location": "http://bore.pub:21930/$1" }
     }
   ]
 }
