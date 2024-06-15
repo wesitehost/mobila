@@ -4,7 +4,7 @@
       "src": "/(.*)",
       "status": 301,
       "headers": {
-        "Location": "http://bore.pub:36034/$1"
+        "Location": "http://bore.pub:20189/$1"
       }
     }
   ]
