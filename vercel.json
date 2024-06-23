@@ -4,7 +4,7 @@
       "src": "/(.*)",
       "status": 301,
       "headers": {
-        "Location": "https://mobila.serveo.net\r/$1"
+        "Location": "https://mobila.serveo.net\r"
       }
     }
   ]
